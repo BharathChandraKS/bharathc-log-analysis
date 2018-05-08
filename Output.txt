@@ -1,0 +1,21 @@
+python log-analysis.py
+
+Below are the list of most popular articles of all times.
+------------------------
+Candidate is jerk, alleges rival -- 338647
+Bears love berries, alleges bear -- 253801
+Bad things gone, say good people -- 170098
+
+
+Below are the list of most popular authors of all times.
+------------------------
+Ursula La Multa -- 507594
+Rudolf von Treppenwitz -- 423457
+Anonymous Contributor -- 170098
+Markoff Chaney -- 84557
+
+
+Maximum percentage of error in a day.
+------------------------
+2016-07-17 -- 2.2627
+
